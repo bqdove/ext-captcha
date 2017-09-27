@@ -5,7 +5,7 @@ author:
     - twilroad
     - 269044570@qq.com
 version: 0.1.0
-provider: Notadd\Slide\Extension
+provider: Notadd\Slide\Addon
 events:
     subscribes:
         - Notadd\Slide\Listeners\CsrfTokenRegister
